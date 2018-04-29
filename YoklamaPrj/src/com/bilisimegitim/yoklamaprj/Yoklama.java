@@ -4,7 +4,7 @@ public class Yoklama {
 
 	public static void main(String[] args) {
 		
-		String[] isimler = {"Bora","Esra","Berna","Sertaç","Boğaç",
+		String[] isimler = {"Esra","Berna","Sertaç","Boğaç",
 				"Gülşah","Yunus","Taner"};
 		
 		
