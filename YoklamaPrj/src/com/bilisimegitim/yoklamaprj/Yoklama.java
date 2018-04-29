@@ -8,6 +8,7 @@ public class Yoklama {
 				"Gülşah","Yunus","Taner"};
 		
 		
+		// isimleri yazdırıyoruz.
 		for (int i = 0; i < isimler.length; i++) {
 			System.out.println(isimler[i]);
 		}
